@@ -11,4 +11,4 @@ https://github.com/marmelab/awesome-rest
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-Be cool! :facepunch:
+:facepunch:
