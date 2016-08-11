@@ -2,7 +2,7 @@
 Below is a list of stuff.
 
 ![Conversational Services](https://github.com/ArgoHQ/List/blob/master/infographic.png)
--> Updated August 11, 2016 <-
+<center> Updated August 11, 2016 </center>
 
 ## Quick-Links
 * [Assistant](#assistant)
