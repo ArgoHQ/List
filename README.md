@@ -18,6 +18,7 @@ Please submit a pull request if you are able to contribute!
 * [Shopping](#shopping)
 * [Transportation](#transportation)
 * [Travel](#travel)
+* **[License](#license)**
 
 ## Assistant
 
