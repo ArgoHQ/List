@@ -1,7 +1,7 @@
 # ConversationalServices
 
-[Category](#category)
-Assistant
+
+[Assistant](#assistant)
 Finance
 Health
 Home
