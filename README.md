@@ -13,7 +13,7 @@ Shopping
 Transportation
 Travel
 
-## Assistants
+## Assistant
 
 * [Alfred](https://app.helloalfred.com/) - Your personal butler to complete your entire to-do list
 * [Allset](https://allsetnow.com/) - Book and order restaurants via messenger
