@@ -1,17 +1,18 @@
 # ConversationalServices
+Below is a list of stuff.
 
-
-[Assistant](#assistant)
-Finance
-Health
-Home
-Legal
-Misc.
-Real Estate
-Recs/Advice
-Shopping
-Transportation
-Travel
+## Quick-Links
+* [Assistant](#Assistant)
+* [Finance](#Finance)
+* [Health](#Health)
+* [Home](#Home)
+* [Legal](#Legal)
+* [Misc.](#Misc.)
+* [Real Estate](#Real Estate)
+* [Recs/Advice](#Recs/Advice)
+* [Shopping](#Shopping)
+* [Transportation](#Transportation)
+* [Travel](#Travel)
 
 ## Assistant
 
