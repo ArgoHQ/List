@@ -1,5 +1,18 @@
 # ConversationalServices
 
+[Category](#category)
+Assistant
+Finance
+Health
+Home
+Legal
+Misc.
+Real Estate
+Recs/Advice
+Shopping
+Transportation
+Travel
+
 ## Assistants
 
 * [Alfred](https://app.helloalfred.com/) - Your personal butler to complete your entire to-do list
