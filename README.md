@@ -1,7 +1,7 @@
 # ConversationalServices
 Below is a list of stuff.
 
-![Conversational Services](https://raw.githubusercontent.com/argohq/list/infographic.png)
+![Conversational Services](https://github.com/ArgoHQ/List/blob/master/infographic.png)
 
 ## Quick-Links
 * [Assistant](#assistant)
