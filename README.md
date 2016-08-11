@@ -2,17 +2,17 @@
 Below is a list of stuff.
 
 ## Quick-Links
-* [Assistant](#Assistant)
-* [Finance](#Finance)
-* [Health](#Health)
-* [Home](#Home)
-* [Legal](#Legal)
-* [Misc.](#Misc.)
-* [Real Estate](#Real Estate)
-* [Recs/Advice](#Recs/Advice)
-* [Shopping](#Shopping)
-* [Transportation](#Transportation)
-* [Travel](#Travel)
+* [Assistant](#assistant)
+* [Finance](#finance)
+* [Health](#health)
+* [Home](#home)
+* [Legal](#legal)
+* [Misc.](#misc)
+* [Real Estate](#real-estate)
+* [Recs/Advice](#recs--advice)
+* [Shopping](#shopping)
+* [Transportation](#transportation)
+* [Travel](#travel)
 
 ## Assistant
 
