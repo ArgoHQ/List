@@ -56,6 +56,7 @@ Please submit a pull request if you are able to contribute!
 * [Penny](https://www.pennyapp.io/) - Personal finance coach
 * [TaxChat](http://tax.chat/) - Tax prep via message
 * [Trim](http://www.asktrim.com/) - Find and cut subscriptions via message
+* [Sway](http://swayfinance.com/) - SaaS accounting with an accompanying Slackbot
 
 ## Health
 
