@@ -51,6 +51,7 @@ Please submit a pull request if you are able to contribute!
 ## Finance
 
 * [Bond.ai](http://Bond.ai) - Personal finance assistant via message
+* [Julia](http://getgems.org/julia/) - Your personal bitcoin teller.
 * [MyKai](http://kasisto.com/mykai/) - Your banking bot
 * [NextGenVest](https://www.nextgenvest.com/) - College student money mentor
 * [Penny](https://www.pennyapp.io/) - Personal finance coach
@@ -68,6 +69,7 @@ Please submit a pull request if you are able to contribute!
 * [lark](http://www.web.lark.com/) - Personal weight loss coach
 * [rise](https://www.rise.us/) - Personal diet coach
 * [RobinHealth](http://www.joinrobinhealth.com) - Free 24/7 prescription delivery
+* [Sherpaa](https://sherpaa.com/) - Streamlines healthcare
 * [Talkspace](https://www.talkspace.com/) - Online therapy
  
 ## Home
@@ -104,7 +106,9 @@ Please submit a pull request if you are able to contribute!
 * [Alexis](http://www.askalexis.io/) - Advice for men via message
 * [AndChill](http://www.andchill.io/) - Movie recommendations via message
 * [Ask Haley](http://www.askhaley.com/) - Find kids' classes via message
+* [Coffes Bot](http://coffeesbot.com/) - He finds your next coffee spot.
 * [Marsbot](https://marsbotapp.com/) - Restaurant recommendations via SMS
+* [MusicRover](https://www.botworks.co/musicrover) - Discover ♫ you ♥
 * [Sensay](https://sensay.it/) - Real advice via messenger
 * [Whole Foods](https://www.messenger.com/t/24922591487) - Get recipes via messenger
 
@@ -122,6 +126,7 @@ Please submit a pull request if you are able to contribute!
 * [Operator](https://www.operator.com/) - Connect to experts to get anything done
 * [Ropazi](http://www.ropazi.com/) - Shop for kids clothes via message
 * [Sephora](https://bots.kik.com/#/sephora) - Makeup tips and reviews via kik
+* [Yellow Messenger](https://www.yellowmessenger.com/) - Shop, book, order anything on chat.
  
 ## Transportation
 

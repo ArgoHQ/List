@@ -1,1 +1,1 @@
-Infographic updated as of 8/19/2016
+Infographic updated as of 8/22/2016
