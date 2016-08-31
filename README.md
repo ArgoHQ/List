@@ -1,5 +1,5 @@
 # Conversational Services
-This is a collaborative list of conversational services as outlined in ArgoHQ's Medium post [here](#).
+This is a collaborative list of conversational services as outlined in ArgoHQ's Medium post [here](https://blog.argohq.com/organizing-conversational-services-839727458e0b#.hz3d1bbit).
 
 Please submit a pull request if you are able to contribute!
 
