@@ -116,6 +116,7 @@ Please submit a pull request if you are able to contribute!
 * [1-800-Flowers](https://www.messenger.com/t/1800flowers/) - Order flowers via messenger
 * [Art Concierge by Vango](http://hang.vangoart.com/concierge) - Personal art concierge via message
 * [Bonobos](https://bonobos.com/help) - Realtime style advice from "Ninjas"
+* [Discount Hero](https://discounthero.chat/) - Offers and voucher codes search and subscription assistant
 * [Dominos Anyware](https://anyware.dominos.com/) - Order pizza without having to click anything (or via SMS)
 * [Drinkeasy](http://www.drinkeasy.co/) - Alcohol recommendations and delivery via SMS
 * [Fify](http://fify.ai/) - Fashion and shopping help via message
